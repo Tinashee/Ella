@@ -1,0 +1,27 @@
+/* <style type ="text/css"> */
+body {
+    text-align:center;
+     color: black;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif serif;
+     font-size: 50px;
+     font-style:inherit;
+     background-color: gray;
+     padding: 100px;
+
+}
+h1{
+    color: white;
+    font-size: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(13, 43, 54);
+}
+ 
+div{
+    text-align:left;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif serif;
+    font-size: 50px;
+    font-style: oblique;
+    background-color: gray;
+    padding: 100px;
+}

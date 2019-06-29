@@ -1,0 +1,33 @@
+/* <style type ="text/css"> */
+body {
+    text-align:center;
+     color: black;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif serif;
+     font-size: 50px;
+     font-style:inherit;
+     background-color: rgb(116, 117, 101);
+     padding: 0px;
+
+}
+h1{
+    color: white;
+    font-size: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(49, 45, 45);
+}
+ 
+h2{
+    color: white;
+    font-size: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(49, 45, 45);
+}
+div{
+    text-align:left;
+    color: rgb(228, 207, 169);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif serif;
+    font-size: 20px;
+    font-style: oblique;
+    background-color: rgb(255, 255, 255);
+    padding: 100px;
+}
